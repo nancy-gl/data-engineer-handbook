@@ -1,1 +1,0 @@
-CREATE TYPE quality_class AS ENUM('star', 'good', 'average', 'bad')
